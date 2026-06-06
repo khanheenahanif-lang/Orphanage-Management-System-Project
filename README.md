@@ -60,8 +60,9 @@ Cloud database support
 Role-based access control
 Analytics dashboard
 
-**Author**
+**Author:**
 **Heena Khan**
+<br>
 **Bachelor of Science in Information Technology (B.Sc. IT)**
 
 **License**
