@@ -51,6 +51,7 @@ Open the application in your browser.
 
 **Screenshots:**
 <br>
+<img width="1444" height="782" alt="logo" src="https://github.com/user-attachments/assets/bc1cda9c-52d8-42bd-bc2e-5cce99cfc088" />
 
 Login Page:
 <br>
@@ -59,6 +60,7 @@ Login Page:
 Dashboard:
 <br>
 <img width="1198" height="1910" alt="Dashboard" src="https://github.com/user-attachments/assets/94f26565-e192-4c47-80ad-7bf07686e6d8" />
+
 Child module:
 <br>
 <img width="1198" height="2635" alt="child_form" src="https://github.com/user-attachments/assets/7ec67369-7a02-44a2-951e-aa13745e1882" />
