@@ -1,9 +1,11 @@
 **Orphanage Management System**
 
-**Project Overview**
+**Project Overview:**
+<br>
 The Orphanage Management System is a web-based application developed using Python, Flask, HTML, CSS, JavaScript, and SQLite. It helps orphanages efficiently manage orphan records, donor information, staff details, and administrative activities through a centralized system.
 
-**Features**
+**Features:**
+<br>
 Secure admin login and authentication
 Add, update, delete, and search orphan records
 Manage adopter information
@@ -14,7 +16,8 @@ Database management using SQLite
 User-friendly web interface
 Report generation and data organization
 
-**Technologies Used**
+**Technologies Used:**
+<br>
 Python
 Flask
 HTML5
@@ -24,6 +27,7 @@ SQLite
 SQLAlchemy
 
 **Installation**
+<br>
 
 **Clone the repository:**
 git clone https://github.com/khanheenahanif-lang/Orphanage-Management-System-Project.git
@@ -38,17 +42,20 @@ pip install -r requirements.txt
 python app.py
 Open the application in your browser.
 
-**Project Structure**
+**Project Structure:**
+<br>
 **Backend:** Python Flask
 **Frontend:** HTML, CSS, JavaScript
 **Database:** SQLite
 **ORM:** SQLAlchemy
 
-**Screenshots**
+**Screenshots:**
+<br>
 
-Add screenshots of:
+Login Page:
+<br>
+<img width="1216" height="915" alt="login" src="https://github.com/user-attachments/assets/bcf66a28-3d06-4980-9f5f-640aac323f27" />
 
-Login Page
 Dashboard
 Orphan Management Page
 Donor Management Page
